@@ -1,6 +1,6 @@
 Hi there 👋, I am Chris Reichert
  
-As a Full Stack Developer, I am creative, innovative, and passionate about bringing solutions to challenging issues.  I am interested in both Front-End and Back-end. I enjoy how front-end brings the beauty of an application and love how the backend makes the connection. 
+As a Full Stack Developer, I am creative, innovative, and passionate about bringing solutions to challenging issues. I just started my journey, but I have taken the first step. I enjoy how front-end brings the beauty of an application and love how the backend makes the connection. 
  
 <!--
 **reichertc2/reichertc2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -42,7 +42,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reichertc2&hide=Jupyter%20Notebook&show_icons=true&theme=dark&layout=compact)](https://github.com/reichertc2)
 
- ## 📫 Lets connect
+ ## 📫 Profiles
  <a href="https://www.linkedin.com/in/christopher-reichert/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin profile page"/></a>
-
+  <!-- <a href="https://leetcode.com/reichertc2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode profile page"/></a> -->
+ 
 
